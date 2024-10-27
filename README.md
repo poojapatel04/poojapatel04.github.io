@@ -1,1 +1,7 @@
-# poojapatel04.github.io
+Data science
+
+Education
+
+Work Experience
+
+Projects
