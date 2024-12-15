@@ -10,17 +10,14 @@ I'm a data analyst passionate about using data to solve problems and uncover ins
 -  Python
 -  SQL
 -  Python
--   ableau
--     cel
-- R Programming
-- Data Analysis
-- Java
-- C++ programming
-- Microsoft Power BI
-- Database Management
-![image](https://github.com/user-attachments/assets/5db1fffa-aa9d-4a94-8bee-d7aad36c6ba7)
-
-  
+-  Tableau
+-  Excel
+-  R Programming
+-  Data Analysis
+-  Java
+-  C++ programming
+-  Microsoft Power BI
+-  Database Management
 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/pooja-s-patel/)
