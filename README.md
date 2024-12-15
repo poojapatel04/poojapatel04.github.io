@@ -2,8 +2,9 @@
 I'm a data analyst passionate about using data to solve problems and uncover insights. I enjoy working with Python, R, SQL, and data visualization tools to create impactful analyses.
 
 ### Featured Projects
-- **[Project Name](Link to Repository)**: Brief description of the project (e.g., EDA, visualization, or machine learning).
-- **[Project Name](Link to Repository)**: Another example.
+- **[Restaurant-Database-System-Project ](https://github.com/poojapatel04/Design-and-Implement-a-Database-for-a-Resturant-Operations)**: Brief description of the project (e.g., EDA, visualization, or machine learning).
+- **[Time Clock Project](https://github.com/poojapatel04/Time-Clock-Project)**: Another example.
+-  **[Data Manipulation and Analysis in R](https://github.com/poojapatel04/Data-Manipulation-and-Analysis-in-R)**: Another example.
 
 ### Skills
 - Programming: Python, R, SQL
