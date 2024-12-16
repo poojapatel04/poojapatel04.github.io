@@ -21,4 +21,5 @@ I'm a data analyst passionate about using data to solve problems and uncover ins
 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/pooja-s-patel/)
-- [Email](poojapatel040201@gmail.com)
+- [poojapatel040201@gmail.com](mailto:poojapatel040201@gmail.com)
+
