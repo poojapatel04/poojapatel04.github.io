@@ -9,6 +9,8 @@ I'm a data analyst passionate about using data to solve problems and uncover ins
 ### Skills
 -  Python
 -  SQL
+-  MySQL
+-  MySQL Server
 -  Python
 -  Tableau
 -  Excel
@@ -18,6 +20,8 @@ I'm a data analyst passionate about using data to solve problems and uncover ins
 -  C++ programming
 -  Microsoft Power BI
 -  Database Management
+-  Communication
+-  Time Management
 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/pooja-s-patel/)
